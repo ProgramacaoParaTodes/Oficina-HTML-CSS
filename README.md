@@ -38,7 +38,7 @@ Você também pode usar outras IDEs como o Sublime e o Atom. Ou... Pode usar o B
 
 1. Verifique se tudo está funcionando, especialmente fones de ouvido ou caixas de som do computador ao utilizar o Zoom.
 
-2. Acesse a sala alguns minutos antes através do link que você receberá. 
+2. Acesse a sala alguns minutos antes através do link que você receberá via e-mail.
 
 3. Crie uma pastinha no seu computador, em um lugar que você saiba o caminho, para que os arquivos sejam colocados lá.
 
@@ -50,7 +50,7 @@ Você também pode usar outras IDEs como o Sublime e o Atom. Ou... Pode usar o B
 
 2. Quando não estiver falando, mantenha o microfone no mudo.
 
-3. Em diversos pontos da aula, vou parar e perguntar se alguém tem dúvidas. Anote suas dúvidas e aproveite este momento para saná-las.
+3. Em diversos pontos da aula, vou parar e perguntar se alguém tem dúvidas. Anote suas dúvidas e aproveite este momento para saná-las. **TODAS AS DÚVIDAS SÃO RELEVANTES!**
 
 ### Certificados
 
