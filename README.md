@@ -32,6 +32,12 @@ Assim como mencionei acima com o Zoom, caso você esteja totalmente confortável
 
 Você também pode usar outras IDEs como o Sublime e o Atom. Ou... Pode usar o Bloco de Notas também, mas acho que você vai curtir usar o Visual Studio Code ;)
 
+## Conta Google
+
+O Fast.io, a ferramenta que vamos utilizar para publicar os sites, faz uma ponte com o Google Drive e alguns outros serviços. Então, caso não tenha uma conta Google, crie uma [aqui](https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default&dsh=S-1592844607%3A1591564881048688&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp) :)
+
+A ferramenta faz pontes com o OneDrive e com o Dropbox. Caso você já tenha conta nestes serviços, não precisará criar nada!
+
 ## Outras instruções
 
 ### Antes das aulas:
