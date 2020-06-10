@@ -70,4 +70,4 @@ O prazo para a realização é de uma semana após a última aula. Ao longo dess
 
 ### :envelope: Estou com dúvida, e agora?
 
-Você pode entrar em contato comigo através do e-mail programacaoparatodes@gmail.com e farei o possível para ajudar você antes do início das aulas :)
+Você pode entrar em contato comigo através do e-mail programacaoparatodes@gmail.com e farei o possível para ajudar você antes do início das aulas com as questões do Zoom e do Visual Studio Code e, durante as aulas, com suas dúvidas :)
