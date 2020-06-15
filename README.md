@@ -7,7 +7,7 @@
 ---
 
 :heavy_check_mark: Este repositório contém:
-- [Instruções](INSTRUCOES.md) para participar da oficina e que devem ser lidas ANTES da primeira aula;
+- [Instruções](INSTRUCOES.md) para participar da oficina e que devem ser lidas **ANTES** da primeira aula;
 - [Materiais auxiliares](material_projeto_1) para o desenvolvimento do primeiro projeto (currículo);
 - Primeiro projeto [concluído](curriculo).
 
