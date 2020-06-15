@@ -40,6 +40,6 @@
 
 ### :star_struck: Extras:
 
-1. **Linha 7 do arquivo index.html:** Lá você encontra como adicionar um favicon ao seu site ;)
+1. **Linha 7 do arquivo index.html:** Lá você encontra como adicionar um favicon ao seu site ;) Site para gerar favicons: https://www.genfavicon.com/pt/ - Utilize o tamanho 16x16 e coloque o favicon.ico dentro da pasta img! ;)
 2. **Linha 68 do arquivo index.html:** Ali você pode disponibilizar uma versão em PDF do seu currículo. Basta criar uma pasta *pdf* dentro da pasta *assets*, colocar um arquivo *curriculo.pdf* ali e pronto! 
 3. **Auto-save do Visual Studio Code:** clicar na engrenagem no canto inferior esquerdo -> Settings -> na barra de busca procurar por "Auto save" -> escolher a opção afterDelay e deixar o intervalo em 1000 mesmo.
