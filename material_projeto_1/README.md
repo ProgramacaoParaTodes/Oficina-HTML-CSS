@@ -1,6 +1,6 @@
 # Projeto 1: Currículo
 
-Sites que utilizamos:
+:yellow_heart: Sites que utilizamos:
 
 - Bootstrap: https://getbootstrap.com/
 
@@ -25,7 +25,7 @@ Sites que utilizamos:
 6. Uma caixa de texto verde apontará para o código na tela seguinte. Basta copiar a linha de código fornecida (há um botão ali Copy Kit Code, pode clicar para copiar o código).
 7. Cole a linha de código entre as tags *head*.
 
-Gists:
+:star: Gists:
 
 - Item do currículo: https://gist.github.com/erikabueno/0d497307682697c1ff20c4ad54b35d7e
 - Habilidades: https://gist.github.com/erikabueno/8e42d93040cba3b7a6ed54bdc75aeb22
@@ -33,11 +33,12 @@ Gists:
 - Rodapé: https://gist.github.com/erikabueno/f2f4792594f9d9a276b27e1d6c3034f1
 - Botão depois das habilidades: https://gist.github.com/erikabueno/f5d682e406b1ba8e51cde20054401364 
 
-Lembretes:
+:heavy_check_mark: Lembretes:
 
-1. As configurações ficam sempre entre as tags head.
+1. As configurações ficam entre as tags *head*.
+2. O conteúdo do site fica entre as tags *body*.
 
-Extras:
+:star_struck: Extras:
 
 1. **Linha 7 do arquivo index.html:** Lá você encontra como adicionar um favicon ao seu site ;)
 2. **Linha 68 do arquivo index.html:** Ali você pode disponibilizar uma versão em PDF do seu currículo. Basta criar uma pasta *pdf* dentro da pasta *assets*, colocar um arquivo *curriculo.pdf* ali e pronto! 
