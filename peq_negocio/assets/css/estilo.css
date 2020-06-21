@@ -1,0 +1,110 @@
+html, body, h1, h2, h3, h4, h5, h6, .btn {
+    font-family: "Roboto", sans-serif;
+}
+
+
+footer { 
+    background-color:darkslategrey;
+    color: white;
+    padding: 2%;
+}
+
+.centro { 
+    text-align: center;
+}
+
+a.social:link, a.social:visited, a.social:active, a.social:hover { 
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.navbar-dark { 
+    background-color: darkslategrey;
+}
+
+.fundo { 
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+h2 { 
+    background-color: darkslategrey;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+
+.vitrine {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+  
+.produto {
+    flex: 0 0 auto;
+    text-align: center;
+    margin: 20px;
+  }
+  
+.container-conteudo { 
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.conteudo { 
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+a.links:link, a.links:visited, a.links:active { 
+    color: darkslategray;
+    text-decoration: none;
+}
+
+a.links:hover { 
+    color: orange;
+    text-decoration: none;
+}
+
+h6 { 
+    background-color: darkslategrey;
+    color: white;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    text-align: left;
+}
+
+.produto-info { 
+    margin-top: 20px;
+}
+
+.texto-produto { 
+    margin-left: 20px;
+    text-align: left;
+}
+
+.coluna-imagem { 
+    text-align: center; 
+    margin-top: 20px;
+}
+
+.coluna-texto { 
+    margin-top: 20px;
+    text-align: justify; 
+    font-size: 13px;
+}
+
+.info { 
+    font-size: 11px;
+}
