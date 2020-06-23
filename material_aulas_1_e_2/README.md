@@ -1,4 +1,4 @@
-# Projeto 1: Currículo
+# Material - Aulas 1 e 2
 
 ## :yellow_heart: Sites que utilizamos:
 

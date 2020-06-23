@@ -8,10 +8,9 @@
 
 :heavy_check_mark: Este repositório contém:
 - [Instruções](INSTRUCOES.md) para participar da oficina e que devem ser lidas **ANTES** da primeira aula;
-- [Materiais auxiliares](material_projeto_1) para o desenvolvimento do primeiro projeto (currículo);
+- [Materiais auxiliares das aulas 1 e 2](material_aulas_1_e_2) para o desenvolvimento do primeiro projeto (currículo);
 - Primeiro projeto [concluído](curriculo).
-
-**Em breve:** [materiais auxiliares](material_projeto_2) para o segundo projeto (pequeno comércio) e o segundo projeto [concluído](peq_negocio).
+- [Materiais auxiliares da aula 3](material_aula_3) para o segundo projeto (pequeno comércio) e o segundo projeto [concluído](peq_negocio).
 
 ---
 
