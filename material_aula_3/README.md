@@ -21,6 +21,15 @@
 
 Para colocar outro site no ar, você precisa repetir os passos de 6 a 14, considerando que no passo 6, ao invés de *+ Add New Site*, você clicará em *+ New Site* no canto superior direito.
 
+## :star: Componentes utilizados do Bootstrap:
+
+- JS: https://getbootstrap.com/docs/4.5/getting-started/introduction/ - Copiar o código referente a essa parte e colocar antes da tag:
+```</body>```
+- Carousel: https://getbootstrap.com/docs/4.5/components/carousel/#with-captions
+- Card: https://getbootstrap.com/docs/4.5/components/card/#example
+- Jumbotron (versão FLUID): https://getbootstrap.com/docs/4.5/components/jumbotron/
+- Tipos de botão: https://getbootstrap.com/docs/4.5/components/buttons/  
+
 ## :heavy_check_mark: Lembretes / dicas:
 
 1. Reaproveite o código que está entre as tags *head* do projeto do currículo ;)
